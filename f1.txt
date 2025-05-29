@@ -1,4 +1,4 @@
-"This is file f1 on develop" 
+
 
 Development change in login functionality
 "Implement the login functionality" 
@@ -6,3 +6,6 @@ Development change in login functionality
 
 "Case 1" 
 "Case 2" 
+
+Fix: validate user input and encrypt password
+
