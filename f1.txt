@@ -8,3 +8,4 @@ Development change in login functionality
 "Case 1" 
 "Case 2" 
 
+Fix: validate user input and encrypt password
