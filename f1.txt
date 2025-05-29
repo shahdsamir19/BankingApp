@@ -1,13 +1,10 @@
-"This is file f1 on develop" 
+
 
 Development change in login functionality
 "Implement the login functionality" 
-<<<<<<< HEAD
+
 
 "Case 1" 
 "Case 2" 
 
-=======
-"Implement the login functionality" 
-"Case 1" 
->>>>>>> cac6559 (Add Case 1 to f1)
+
