@@ -14,4 +14,9 @@ git checkout develop
 echo "This is file f1 on develop" > f1.txt
 git add f1.txt
 git commit -m "Add f1 file on develop branch"
+git checkout -b login-feature
+echo "Implement the login functionality" >> f1.txt
+git add f1
+git commit -m "Implement login functionality"
+git push -u origin login-feature
 
