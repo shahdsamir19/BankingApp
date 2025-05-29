@@ -74,9 +74,14 @@ git add f1.txt
 git commit -m "fix(security): patch login vulnerability with input validation"
 git checkout main
 git merge hotfix/login-security
+git checkout development
+git merge hotfix/login-security
 git branch -d hotfix/login-security
 git push origin main
 git push origin development
+git checkout development
+git log --oneline --graph --all
+git rebase -i b7ad085
 
 
 
